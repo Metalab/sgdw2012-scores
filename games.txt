@@ -1,0 +1,28 @@
+
+Spiele:
+
+ - (1) Elle and the Spooky Arrow
+ - (2) Collateral Damage
+ - (3) Hipster Bandit
+ - (4) Koffer
+ - (5) Visuali.. Sehr!
+
+Kategorien:
+
+ - (A) Thema
+   Wie gut passt das Spiel zum Thema? ("Freestyle")
+ - (B) Sounds / Grafik
+   Wie gut "hört" sich das Spiel an?
+   Wie gut "sieht" das Spiel aus?
+ - (C) Fun / Work / Gameplay
+   Wie spaßig ist das Spiel (wenns überhaupt geht)?
+ - (D) No Framework
+   Wir brauchen keins, wir schreibens uns selber
+ - (E) Name
+   He das hört sich schon mal gut an
+
+Beispiel-Stimmzettel:
+
+   A6 B7 C8 D9 E10
+
+
