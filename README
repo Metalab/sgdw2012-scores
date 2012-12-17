@@ -1,0 +1,27 @@
+
+Super Gamedev Weekend 2012 Voting + Results
+===========================================
+
+Da wir die konkrete Vorgehensweise vom 2010er und 2011er Jahr nicht in
+Erfahrung bringen konnten, haben wir uns dieses Jahr spontan neue Kategorien
+und ein neues Voting-Verfahren überlegt. Hier dokumentiert als Inspiration für
+zukünftige Gamedev Weekends.
+
+Ablauf:
+
+ - Liste der Spiele = Zahlen (1, 2, 3, ...)
+ - Liste der Kategorien = Buchstaben (A, B, C, ...)
+
+ (die Liste der Spiele und Kategorien für 2012 findet sich in "games.txt")
+
+Voting:
+
+ - Alle Anwesenden, die alle Präsentationen gesehen haben, dürfen mitvoten
+ - Es werden (leere, weiße) Stimmzettel ausgeteilt
+ - Für jede Kategorie (A, B, C, ...) kann (muss) jeweils ein Favorit-Spiel
+   ausgewählt werden. Wenn Spiel 1 zB in Kategorie A der Favorit ist, und
+   Spiel 2 in den Kategorien B, C und D, dann schreibt man folgendes auf den
+   Stimmzettel: A1 B2 C2 D2
+ - Ausgewertet kann zB mit einem Spreadsheet werden (siehe "scores.ods")
+ - Die Spalten aufaddiert ergibt dann den Gesamt-Score
+
